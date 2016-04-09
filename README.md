@@ -1,7 +1,9 @@
 # AkalaboTexture
 赤ラボオープンデザインプロジェクト  
 It is the open design project of Akalabo Texture  
-
+  
+  
+  
 ###赤ラボテクスチャの特徴  
 __1.バニラ準拠__  
 バニラのテクスチャと模様が大きく懸け離れることがないので、マルチサーバーでも安心して利用できます。
