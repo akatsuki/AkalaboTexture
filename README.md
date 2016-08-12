@@ -1,8 +1,8 @@
 # AkalaboTexture
 赤ラボオープンデザインプロジェクト  
 It is the open design project of Akalabo Texture  
-  
-  
+
+##[Download](https://github.com/akatsuki/AkalaboTexture/releases "リリースページ")
   
 ###赤ラボテクスチャの特徴  
 __1.バニラ準拠__  
