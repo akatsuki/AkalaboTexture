@@ -1,6 +1,10 @@
 {
-    "variants": {
-        "stage=0": { "model": "acacia_sapling" },
-        "stage=1": { "model": "acacia_sapling" }
+  "variants": {
+    "stage\u003d0": {
+      "model": "block/acacia_sapling"
+    },
+    "stage\u003d1": {
+      "model": "block/acacia_sapling"
     }
+  }
 }

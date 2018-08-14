@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "emerald_block" }
+  "variants": {
+    "": {
+      "model": "block/emerald_block"
     }
+  }
 }

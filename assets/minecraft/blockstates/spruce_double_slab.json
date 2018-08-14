@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "spruce_planks" }
+  "variants": {
+    "": {
+      "model": "block/spruce_planks"
     }
+  }
 }

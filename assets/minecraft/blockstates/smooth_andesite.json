@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "andesite_smooth" }
+  "variants": {
+    "": {
+      "model": "block/andesite_smooth"
     }
+  }
 }

@@ -1,6 +1,10 @@
 {
-    "variants": {
-        "axis=z": { "model": "portal_ew" },
-        "axis=x": { "model": "portal_ns" }
+  "variants": {
+    "axis\u003dz": {
+      "model": "block/portal_ew"
+    },
+    "axis\u003dx": {
+      "model": "block/portal_ns"
     }
+  }
 }

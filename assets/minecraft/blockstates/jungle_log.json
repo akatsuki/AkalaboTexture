@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "axis=y":  { "model": "jungle_log" },
-        "axis=z":   { "model": "jungle_log", "x": 90 },
-        "axis=x":   { "model": "jungle_log", "x": 90, "y": 90 },
-        "axis=none": { "model": "jungle_bark" }
+  "variants": {
+    "axis\u003dy": {
+      "model": "block/jungle_log"
+    },
+    "axis\u003dz": {
+      "model": "block/jungle_log",
+      "x": 90
+    },
+    "axis\u003dx": {
+      "model": "block/jungle_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis\u003dnone": {
+      "model": "block/jungle_bark"
     }
+  }
 }

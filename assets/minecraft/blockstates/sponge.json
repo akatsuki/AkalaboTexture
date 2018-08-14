@@ -1,6 +1,10 @@
 {
-    "variants": {
-        "wet=false": { "model": "sponge" },
-        "wet=true": { "model": "sponge_wet" }
+  "variants": {
+    "wet\u003dfalse": {
+      "model": "block/sponge"
+    },
+    "wet\u003dtrue": {
+      "model": "block/sponge_wet"
     }
+  }
 }

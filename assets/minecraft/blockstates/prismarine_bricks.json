@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "prismarine_bricks" }
+  "variants": {
+    "": {
+      "model": "block/prismarine_bricks"
     }
+  }
 }

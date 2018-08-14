@@ -1,9 +1,22 @@
 {
-    "variants": {
-        "facing=down": { "model": "hopper_down" },
-        "facing=north": { "model": "hopper_side" },
-        "facing=south": { "model": "hopper_side", "y": 180 },
-        "facing=west": { "model": "hopper_side", "y": 270 },
-        "facing=east": { "model": "hopper_side", "y": 90 }
+  "variants": {
+    "facing\u003ddown": {
+      "model": "block/hopper_down"
+    },
+    "facing\u003dnorth": {
+      "model": "block/hopper_side"
+    },
+    "facing\u003dsouth": {
+      "model": "block/hopper_side",
+      "y": 180
+    },
+    "facing\u003dwest": {
+      "model": "block/hopper_side",
+      "y": 270
+    },
+    "facing\u003deast": {
+      "model": "block/hopper_side",
+      "y": 90
     }
+  }
 }

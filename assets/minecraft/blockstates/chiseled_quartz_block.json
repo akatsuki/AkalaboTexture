@@ -1,6 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "quartz_chiseled" }
+  "variants": {
+    "": {
+      "model": "block/quartz_chiseled"
     }
+  }
 }
-

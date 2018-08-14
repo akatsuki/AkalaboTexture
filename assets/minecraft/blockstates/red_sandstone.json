@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "red_sandstone_normal" }
+  "variants": {
+    "": {
+      "model": "block/red_sandstone_normal"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "jukebox" }
+  "variants": {
+    "": {
+      "model": "block/jukebox"
     }
+  }
 }

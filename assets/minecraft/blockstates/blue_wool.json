@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "blue_wool" }
+  "variants": {
+    "": {
+      "model": "block/blue_wool"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "glowstone" }
+  "variants": {
+    "": {
+      "model": "block/glowstone"
     }
+  }
 }

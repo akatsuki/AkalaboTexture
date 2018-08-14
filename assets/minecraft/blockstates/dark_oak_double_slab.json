@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "dark_oak_planks" }
+  "variants": {
+    "": {
+      "model": "block/dark_oak_planks"
     }
+  }
 }

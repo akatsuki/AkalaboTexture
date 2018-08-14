@@ -1,20 +1,80 @@
 {
-    "variants": {
-        "facing=south,in_wall=false,open=false": { "model": "acacia_fence_gate_closed", "uvlock": true },
-        "facing=west,in_wall=false,open=false":  { "model": "acacia_fence_gate_closed", "uvlock": true, "y": 90 },
-        "facing=north,in_wall=false,open=false": { "model": "acacia_fence_gate_closed", "uvlock": true, "y": 180 },
-        "facing=east,in_wall=false,open=false":  { "model": "acacia_fence_gate_closed", "uvlock": true, "y": 270 },
-        "facing=south,in_wall=false,open=true": { "model": "acacia_fence_gate_open", "uvlock": true },
-        "facing=west,in_wall=false,open=true":  { "model": "acacia_fence_gate_open", "uvlock": true, "y": 90 },
-        "facing=north,in_wall=false,open=true": { "model": "acacia_fence_gate_open", "uvlock": true, "y": 180 },
-        "facing=east,in_wall=false,open=true":  { "model": "acacia_fence_gate_open", "uvlock": true, "y": 270 },
-        "facing=south,in_wall=true,open=false": { "model": "acacia_wall_gate_closed", "uvlock": true },
-        "facing=west,in_wall=true,open=false":  { "model": "acacia_wall_gate_closed", "uvlock": true, "y": 90 },
-        "facing=north,in_wall=true,open=false": { "model": "acacia_wall_gate_closed", "uvlock": true, "y": 180 },
-        "facing=east,in_wall=true,open=false":  { "model": "acacia_wall_gate_closed", "uvlock": true, "y": 270 },
-        "facing=south,in_wall=true,open=true": { "model": "acacia_wall_gate_open", "uvlock": true },
-        "facing=west,in_wall=true,open=true":  { "model": "acacia_wall_gate_open", "uvlock": true, "y": 90 },
-        "facing=north,in_wall=true,open=true": { "model": "acacia_wall_gate_open", "uvlock": true, "y": 180 },
-        "facing=east,in_wall=true,open=true":  { "model": "acacia_wall_gate_open", "uvlock": true, "y": 270 }
+  "variants": {
+    "facing\u003dsouth,in_wall\u003dfalse,open\u003dfalse": {
+      "model": "block/acacia_fence_gate_closed",
+      "uvlock": true
+    },
+    "facing\u003dwest,in_wall\u003dfalse,open\u003dfalse": {
+      "model": "block/acacia_fence_gate_closed",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing\u003dnorth,in_wall\u003dfalse,open\u003dfalse": {
+      "model": "block/acacia_fence_gate_closed",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing\u003deast,in_wall\u003dfalse,open\u003dfalse": {
+      "model": "block/acacia_fence_gate_closed",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing\u003dsouth,in_wall\u003dfalse,open\u003dtrue": {
+      "model": "block/acacia_fence_gate_open",
+      "uvlock": true
+    },
+    "facing\u003dwest,in_wall\u003dfalse,open\u003dtrue": {
+      "model": "block/acacia_fence_gate_open",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing\u003dnorth,in_wall\u003dfalse,open\u003dtrue": {
+      "model": "block/acacia_fence_gate_open",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing\u003deast,in_wall\u003dfalse,open\u003dtrue": {
+      "model": "block/acacia_fence_gate_open",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing\u003dsouth,in_wall\u003dtrue,open\u003dfalse": {
+      "model": "block/acacia_wall_gate_closed",
+      "uvlock": true
+    },
+    "facing\u003dwest,in_wall\u003dtrue,open\u003dfalse": {
+      "model": "block/acacia_wall_gate_closed",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing\u003dnorth,in_wall\u003dtrue,open\u003dfalse": {
+      "model": "block/acacia_wall_gate_closed",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing\u003deast,in_wall\u003dtrue,open\u003dfalse": {
+      "model": "block/acacia_wall_gate_closed",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing\u003dsouth,in_wall\u003dtrue,open\u003dtrue": {
+      "model": "block/acacia_wall_gate_open",
+      "uvlock": true
+    },
+    "facing\u003dwest,in_wall\u003dtrue,open\u003dtrue": {
+      "model": "block/acacia_wall_gate_open",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing\u003dnorth,in_wall\u003dtrue,open\u003dtrue": {
+      "model": "block/acacia_wall_gate_open",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing\u003deast,in_wall\u003dtrue,open\u003dtrue": {
+      "model": "block/acacia_wall_gate_open",
+      "uvlock": true,
+      "y": 270
     }
+  }
 }

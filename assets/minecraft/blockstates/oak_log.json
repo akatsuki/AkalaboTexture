@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "axis=y":    { "model": "oak_log" },
-        "axis=z":     { "model": "oak_log", "x": 90 },
-        "axis=x":     { "model": "oak_log", "x": 90, "y": 90 },
-        "axis=none":   { "model": "oak_bark" }
+  "variants": {
+    "axis\u003dy": {
+      "model": "block/oak_log"
+    },
+    "axis\u003dz": {
+      "model": "block/oak_log",
+      "x": 90
+    },
+    "axis\u003dx": {
+      "model": "block/oak_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis\u003dnone": {
+      "model": "block/oak_bark"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "allium" }
+  "variants": {
+    "": {
+      "model": "block/allium"
     }
+  }
 }

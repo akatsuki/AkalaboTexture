@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "axis=y":  { "model": "dark_oak_log" },
-        "axis=z":   { "model": "dark_oak_log", "x": 90 },
-        "axis=x":   { "model": "dark_oak_log", "x": 90, "y": 90 },
-        "axis=none": { "model": "dark_oak_bark" }
+  "variants": {
+    "axis\u003dy": {
+      "model": "block/dark_oak_log"
+    },
+    "axis\u003dz": {
+      "model": "block/dark_oak_log",
+      "x": 90
+    },
+    "axis\u003dx": {
+      "model": "block/dark_oak_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis\u003dnone": {
+      "model": "block/dark_oak_bark"
     }
+  }
 }

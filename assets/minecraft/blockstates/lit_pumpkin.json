@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "facing=north": { "model": "lit_pumpkin" },
-        "facing=south": { "model": "lit_pumpkin", "y": 180 },
-        "facing=west":  { "model": "lit_pumpkin", "y": 270 },
-        "facing=east":  { "model": "lit_pumpkin", "y": 90 }
+  "variants": {
+    "facing\u003dnorth": {
+      "model": "block/lit_pumpkin"
+    },
+    "facing\u003dsouth": {
+      "model": "block/lit_pumpkin",
+      "y": 180
+    },
+    "facing\u003dwest": {
+      "model": "block/lit_pumpkin",
+      "y": 270
+    },
+    "facing\u003deast": {
+      "model": "block/lit_pumpkin",
+      "y": 90
     }
+  }
 }

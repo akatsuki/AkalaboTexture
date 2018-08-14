@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "diamond_block" }
+  "variants": {
+    "": {
+      "model": "block/diamond_block"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "dead_bush" }
+  "variants": {
+    "": {
+      "model": "block/dead_bush"
     }
+  }
 }

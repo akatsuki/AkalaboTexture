@@ -1,20 +1,76 @@
 {
-    "variants": {
-        "facing=down_z,powered=false": { "model": "lever_off", "x": 180, "y": 180 },
-        "facing=down_x,powered=false": { "model": "lever_off", "x": 180, "y": 90 },
-        "facing=up_z,powered=false": { "model": "lever_off" },
-        "facing=up_x,powered=false": { "model": "lever_off", "y": 270 },
-        "facing=east,powered=false": { "model": "lever_off", "x": 90, "y": 90 },
-        "facing=west,powered=false": { "model": "lever_off", "x": 90, "y": 270 },
-        "facing=south,powered=false" : { "model": "lever_off", "x": 90, "y": 180 },
-        "facing=north,powered=false" : { "model": "lever_off", "x": 90 },
-        "facing=down_z,powered=true" : { "model": "lever", "x": 180, "y": 180 },
-        "facing=down_x,powered=true" : { "model": "lever", "x": 180, "y": 90 },
-        "facing=up_z,powered=true": { "model": "lever" },
-        "facing=up_x,powered=true": { "model": "lever", "y": 270 },
-        "facing=east,powered=true": { "model": "lever", "x": 90, "y": 90 },
-        "facing=west,powered=true": { "model": "lever", "x": 90, "y": 270 },
-        "facing=south,powered=true": { "model": "lever", "x": 90, "y": 180 },
-        "facing=north,powered=true": { "model": "lever", "x": 90 }
+  "variants": {
+    "facing\u003ddown_z,powered\u003dfalse": {
+      "model": "block/lever_off",
+      "x": 180,
+      "y": 180
+    },
+    "facing\u003ddown_x,powered\u003dfalse": {
+      "model": "block/lever_off",
+      "x": 180,
+      "y": 90
+    },
+    "facing\u003dup_z,powered\u003dfalse": {
+      "model": "block/lever_off"
+    },
+    "facing\u003dup_x,powered\u003dfalse": {
+      "model": "block/lever_off",
+      "y": 270
+    },
+    "facing\u003deast,powered\u003dfalse": {
+      "model": "block/lever_off",
+      "x": 90,
+      "y": 90
+    },
+    "facing\u003dwest,powered\u003dfalse": {
+      "model": "block/lever_off",
+      "x": 90,
+      "y": 270
+    },
+    "facing\u003dsouth,powered\u003dfalse": {
+      "model": "block/lever_off",
+      "x": 90,
+      "y": 180
+    },
+    "facing\u003dnorth,powered\u003dfalse": {
+      "model": "block/lever_off",
+      "x": 90
+    },
+    "facing\u003ddown_z,powered\u003dtrue": {
+      "model": "block/lever",
+      "x": 180,
+      "y": 180
+    },
+    "facing\u003ddown_x,powered\u003dtrue": {
+      "model": "block/lever",
+      "x": 180,
+      "y": 90
+    },
+    "facing\u003dup_z,powered\u003dtrue": {
+      "model": "block/lever"
+    },
+    "facing\u003dup_x,powered\u003dtrue": {
+      "model": "block/lever",
+      "y": 270
+    },
+    "facing\u003deast,powered\u003dtrue": {
+      "model": "block/lever",
+      "x": 90,
+      "y": 90
+    },
+    "facing\u003dwest,powered\u003dtrue": {
+      "model": "block/lever",
+      "x": 90,
+      "y": 270
+    },
+    "facing\u003dsouth,powered\u003dtrue": {
+      "model": "block/lever",
+      "x": 90,
+      "y": 180
+    },
+    "facing\u003dnorth,powered\u003dtrue": {
+      "model": "block/lever",
+      "x": 90
     }
+  }
 }

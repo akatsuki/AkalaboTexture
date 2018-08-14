@@ -1,6 +1,10 @@
 {
-    "variants": {
-        "normal": { "model": "cobblestone" },
-        "all":    { "model": "cobblestone" }
+  "variants": {
+    "all": {
+      "model": "block/cobblestone"
+    },
+    "": {
+      "model": "block/cobblestone"
     }
+  }
 }

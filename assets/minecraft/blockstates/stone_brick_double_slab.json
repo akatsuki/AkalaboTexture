@@ -1,6 +1,10 @@
 {
-    "variants": {
-        "normal": { "model": "stonebrick_normal" },
-        "all":    { "model": "stonebrick_normal" }
+  "variants": {
+    "all": {
+      "model": "block/stonebrick_normal"
+    },
+    "": {
+      "model": "block/stonebrick_normal"
     }
+  }
 }

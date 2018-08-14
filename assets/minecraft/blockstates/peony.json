@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half\u003dlower": {
+      "model": "block/double_paeonia_bottom"
+    },
+    "half\u003dupper": {
+      "model": "block/double_paeonia_top"
+    }
+  }
+}

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "normal": { "model": "obsidian" }
+  "variants": {
+    "": {
+      "model": "block/obsidian"
     }
+  }
 }
