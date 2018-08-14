@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/iron_block"
+    "variants": {
+        "": { "model": "block/iron_block" }
     }
-  }
 }

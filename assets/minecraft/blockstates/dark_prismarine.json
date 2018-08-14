@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/prismarine_dark"
+    "variants": {
+        "": { "model": "block/dark_prismarine" }
     }
-  }
 }

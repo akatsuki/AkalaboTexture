@@ -1,6 +1,6 @@
 {
-  "parent": "block/cross",
-  "textures": {
-    "cross": "block/white_tulip"
-  }
+    "parent": "block/cross",
+    "textures": {
+        "cross": "block/white_tulip"
+    }
 }

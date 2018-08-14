@@ -1,10 +1,7 @@
 {
-  "variants": {
-    "half\u003dbottom": {
-      "model": "block/half_slab_sandstone"
-    },
-    "half\u003dtop": {
-      "model": "block/upper_slab_sandstone"
+    "variants": {
+        "type=bottom": { "model": "block/sandstone_slab" },
+        "type=top": { "model": "block/sandstone_slab_top" },
+        "type=double": { "model": "block/sandstone" }
     }
-  }
 }

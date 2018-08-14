@@ -1,49 +1,16 @@
 {
-  "variants": {
-    "age\u003d0,facing\u003dsouth": {
-      "model": "block/cocoa_age0_s"
-    },
-    "age\u003d0,facing\u003dwest": {
-      "model": "block/cocoa_age0_s",
-      "y": 90
-    },
-    "age\u003d0,facing\u003dnorth": {
-      "model": "block/cocoa_age0_s",
-      "y": 180
-    },
-    "age\u003d0,facing\u003deast": {
-      "model": "block/cocoa_age0_s",
-      "y": 270
-    },
-    "age\u003d1,facing\u003dsouth": {
-      "model": "block/cocoa_age1_s"
-    },
-    "age\u003d1,facing\u003dwest": {
-      "model": "block/cocoa_age1_s",
-      "y": 90
-    },
-    "age\u003d1,facing\u003dnorth": {
-      "model": "block/cocoa_age1_s",
-      "y": 180
-    },
-    "age\u003d1,facing\u003deast": {
-      "model": "block/cocoa_age1_s",
-      "y": 270
-    },
-    "age\u003d2,facing\u003dsouth": {
-      "model": "block/cocoa_age2_s"
-    },
-    "age\u003d2,facing\u003dwest": {
-      "model": "block/cocoa_age2_s",
-      "y": 90
-    },
-    "age\u003d2,facing\u003dnorth": {
-      "model": "block/cocoa_age2_s",
-      "y": 180
-    },
-    "age\u003d2,facing\u003deast": {
-      "model": "block/cocoa_age2_s",
-      "y": 270
+    "variants": {
+        "age=0,facing=south": { "model": "block/cocoa_stage0" },
+        "age=0,facing=west": { "model": "block/cocoa_stage0", "y": 90 },
+        "age=0,facing=north": { "model": "block/cocoa_stage0", "y": 180 },
+        "age=0,facing=east": { "model": "block/cocoa_stage0", "y": 270 },
+        "age=1,facing=south": { "model": "block/cocoa_stage1" },
+        "age=1,facing=west": { "model": "block/cocoa_stage1", "y": 90 },
+        "age=1,facing=north": { "model": "block/cocoa_stage1", "y": 180 },
+        "age=1,facing=east": { "model": "block/cocoa_stage1", "y": 270 },
+        "age=2,facing=south": { "model": "block/cocoa_stage2" },
+        "age=2,facing=west": { "model": "block/cocoa_stage2", "y": 90 },
+        "age=2,facing=north": { "model": "block/cocoa_stage2", "y": 180 },
+        "age=2,facing=east": { "model": "block/cocoa_stage2", "y": 270 }
     }
-  }
 }

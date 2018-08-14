@@ -1,10 +1,5 @@
 {
-  "variants": {
-    "stage\u003d0": {
-      "model": "block/dark_oak_sapling"
-    },
-    "stage\u003d1": {
-      "model": "block/dark_oak_sapling"
+    "variants": {
+        "": { "model": "block/dark_oak_sapling" }
     }
-  }
 }

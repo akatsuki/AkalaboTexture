@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/cooked_chicken"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_chicken"
+    }
 }

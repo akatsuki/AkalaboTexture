@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/orchid"
+    "variants": {
+        "": { "model": "block/blue_orchid" }
     }
-  }
 }

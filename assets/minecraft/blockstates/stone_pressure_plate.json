@@ -1,10 +1,6 @@
 {
-  "variants": {
-    "powered\u003dfalse": {
-      "model": "block/stone_pressure_plate_up"
-    },
-    "powered\u003dtrue": {
-      "model": "block/stone_pressure_plate_down"
+    "variants": {
+        "powered=false": { "model": "block/stone_pressure_plate" },
+        "powered=true": { "model": "block/stone_pressure_plate_down" }
     }
-  }
 }

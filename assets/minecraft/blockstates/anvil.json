@@ -1,49 +1,8 @@
 {
-  "variants": {
-    "damage\u003d0,facing\u003dsouth": {
-      "model": "block/anvil_undamaged"
-    },
-    "damage\u003d0,facing\u003dwest": {
-      "model": "block/anvil_undamaged",
-      "y": 90
-    },
-    "damage\u003d0,facing\u003dnorth": {
-      "model": "block/anvil_undamaged",
-      "y": 180
-    },
-    "damage\u003d0,facing\u003deast": {
-      "model": "block/anvil_undamaged",
-      "y": 270
-    },
-    "damage\u003d1,facing\u003dsouth": {
-      "model": "block/anvil_slightly_damaged"
-    },
-    "damage\u003d1,facing\u003dwest": {
-      "model": "block/anvil_slightly_damaged",
-      "y": 90
-    },
-    "damage\u003d1,facing\u003dnorth": {
-      "model": "block/anvil_slightly_damaged",
-      "y": 180
-    },
-    "damage\u003d1,facing\u003deast": {
-      "model": "block/anvil_slightly_damaged",
-      "y": 270
-    },
-    "damage\u003d2,facing\u003dsouth": {
-      "model": "block/anvil_very_damaged"
-    },
-    "damage\u003d2,facing\u003dwest": {
-      "model": "block/anvil_very_damaged",
-      "y": 90
-    },
-    "damage\u003d2,facing\u003dnorth": {
-      "model": "block/anvil_very_damaged",
-      "y": 180
-    },
-    "damage\u003d2,facing\u003deast": {
-      "model": "block/anvil_very_damaged",
-      "y": 270
+    "variants": {
+        "facing=south": { "model": "block/anvil" },
+        "facing=west": { "model": "block/anvil", "y": 90 },
+        "facing=north": { "model": "block/anvil", "y": 180 },
+        "facing=east": { "model": "block/anvil", "y": 270 }
     }
-  }
 }

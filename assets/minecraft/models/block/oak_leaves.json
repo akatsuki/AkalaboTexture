@@ -1,6 +1,6 @@
 {
-  "parent": "block/leaves",
-  "textures": {
-    "all": "block/oak_leaves"
-  }
+    "parent": "block/leaves",
+    "textures": {
+        "all": "block/oak_leaves"
+    }
 }

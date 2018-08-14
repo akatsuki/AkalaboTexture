@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/glass"
+    "variants": {
+        "": { "model": "block/glass" }
     }
-  }
 }

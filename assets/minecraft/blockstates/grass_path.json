@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/grass_path"
+    "variants": {
+        "": { "model": "block/grass_path" }
     }
-  }
 }

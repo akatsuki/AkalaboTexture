@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/sandstone_smooth"
+    "variants": {
+        "": { "model": "block/smooth_sandstone" }
     }
-  }
 }

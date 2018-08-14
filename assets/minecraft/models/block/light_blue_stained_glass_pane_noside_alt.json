@@ -1,6 +1,6 @@
 {
-  "parent": "block/pane_noside_alt",
-  "textures": {
-    "pane": "block/light_blue_stained_glass"
-  }
+    "parent": "block/template_glass_pane_noside_alt",
+    "textures": {
+        "pane": "block/light_blue_stained_glass"
+    }
 }

@@ -1,10 +1,5 @@
 {
-  "variants": {
-    "stage\u003d0": {
-      "model": "block/jungle_sapling"
-    },
-    "stage\u003d1": {
-      "model": "block/jungle_sapling"
+    "variants": {
+        "": { "model": "block/jungle_sapling" }
     }
-  }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "block/glass_purple"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/purple_stained_glass"
+    }
 }

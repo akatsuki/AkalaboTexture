@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/prismarine_rough"
+    "variants": {
+        "": { "model": "block/prismarine" }
     }
-  }
 }

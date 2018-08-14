@@ -1,10 +1,7 @@
 {
-  "variants": {
-    "half\u003dbottom,variant\u003ddefault": {
-      "model": "block/half_slab_purpur"
-    },
-    "half\u003dtop,variant\u003ddefault": {
-      "model": "block/upper_slab_purpur"
+    "variants": {
+        "type=bottom": { "model": "block/purpur_slab" },
+        "type=top": { "model": "block/purpur_slab_top" },
+        "type=double": { "model": "block/purpur_block" }
     }
-  }
 }

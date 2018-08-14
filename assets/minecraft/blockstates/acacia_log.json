@@ -1,19 +1,7 @@
 {
-  "variants": {
-    "axis\u003dy": {
-      "model": "block/acacia_log"
-    },
-    "axis\u003dz": {
-      "model": "block/acacia_log",
-      "x": 90
-    },
-    "axis\u003dx": {
-      "model": "block/acacia_log",
-      "x": 90,
-      "y": 90
-    },
-    "axis\u003dnone": {
-      "model": "block/acacia_bark"
+    "variants": {
+        "axis=y":  { "model": "block/acacia_log" },
+        "axis=z":   { "model": "block/acacia_log", "x": 90 },
+        "axis=x":   { "model": "block/acacia_log", "x": 90, "y": 90 }
     }
-  }
 }

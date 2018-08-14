@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/gold_ore"
+    "variants": {
+        "": { "model": "block/gold_ore" }
     }
-  }
 }

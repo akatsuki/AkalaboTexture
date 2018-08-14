@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/dark_oak_leaves"
+    "variants": {
+        "": { "model": "block/dark_oak_leaves" }
     }
-  }
 }

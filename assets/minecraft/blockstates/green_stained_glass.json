@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/glass_green"
+    "variants": {
+        "": { "model": "block/green_stained_glass" }
     }
-  }
 }

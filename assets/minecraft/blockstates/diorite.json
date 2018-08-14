@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/diorite"
+    "variants": {
+        "": { "model": "block/diorite" }
     }
-  }
 }

@@ -1,10 +1,7 @@
 {
-  "variants": {
-    "half\u003dbottom": {
-      "model": "block/half_slab_acacia"
-    },
-    "half\u003dtop": {
-      "model": "block/upper_slab_acacia"
+    "variants": {
+        "type=bottom": { "model": "block/acacia_slab" },
+        "type=top": { "model": "block/acacia_slab_top" },
+        "type=double": { "model": "block/acacia_planks" }
     }
-  }
 }

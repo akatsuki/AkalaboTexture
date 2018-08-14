@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/quartz_chiseled"
+    "variants": {
+        "": { "model": "block/chiseled_quartz_block" }
     }
-  }
 }

@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/white_tulip"
+    "variants": {
+        "": { "model": "block/white_tulip" }
     }
-  }
 }

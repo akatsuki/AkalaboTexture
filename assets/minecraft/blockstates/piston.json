@@ -1,50 +1,16 @@
 {
-  "variants": {
-    "extended\u003dfalse,facing\u003ddown": {
-      "model": "block/piston_normal",
-      "x": 90
-    },
-    "extended\u003dfalse,facing\u003dup": {
-      "model": "block/piston_normal",
-      "x": 270
-    },
-    "extended\u003dfalse,facing\u003dnorth": {
-      "model": "block/piston_normal"
-    },
-    "extended\u003dfalse,facing\u003dsouth": {
-      "model": "block/piston_normal",
-      "y": 180
-    },
-    "extended\u003dfalse,facing\u003dwest": {
-      "model": "block/piston_normal",
-      "y": 270
-    },
-    "extended\u003dfalse,facing\u003deast": {
-      "model": "block/piston_normal",
-      "y": 90
-    },
-    "extended\u003dtrue,facing\u003ddown": {
-      "model": "block/piston_extended_normal",
-      "x": 90
-    },
-    "extended\u003dtrue,facing\u003dup": {
-      "model": "block/piston_extended_normal",
-      "x": 270
-    },
-    "extended\u003dtrue,facing\u003dnorth": {
-      "model": "block/piston_extended_normal"
-    },
-    "extended\u003dtrue,facing\u003dsouth": {
-      "model": "block/piston_extended_normal",
-      "y": 180
-    },
-    "extended\u003dtrue,facing\u003dwest": {
-      "model": "block/piston_extended_normal",
-      "y": 270
-    },
-    "extended\u003dtrue,facing\u003deast": {
-      "model": "block/piston_extended_normal",
-      "y": 90
+    "variants": {
+        "extended=false,facing=down": { "model": "block/piston", "x": 90 },
+        "extended=false,facing=up": { "model": "block/piston", "x": 270 },
+        "extended=false,facing=north": { "model": "block/piston" },
+        "extended=false,facing=south": { "model": "block/piston", "y": 180 },
+        "extended=false,facing=west": { "model": "block/piston", "y": 270 },
+        "extended=false,facing=east": { "model": "block/piston", "y": 90 },
+        "extended=true,facing=down": { "model": "block/piston_base", "x": 90 },
+        "extended=true,facing=up": { "model": "block/piston_base", "x": 270 },
+        "extended=true,facing=north": { "model": "block/piston_base" },
+        "extended=true,facing=south": { "model": "block/piston_base", "y": 180 },
+        "extended=true,facing=west": { "model": "block/piston_base", "y": 270 },
+        "extended=true,facing=east": { "model": "block/piston_base", "y": 90 }
     }
-  }
 }

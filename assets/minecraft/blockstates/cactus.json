@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/cactus"
+    "variants": {
+        "": { "model": "block/cactus" }
     }
-  }
 }

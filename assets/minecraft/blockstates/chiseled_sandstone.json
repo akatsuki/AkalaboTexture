@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/sandstone_chiseled"
+    "variants": {
+        "": { "model": "block/chiseled_sandstone" }
     }
-  }
 }

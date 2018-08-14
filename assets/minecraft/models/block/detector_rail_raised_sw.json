@@ -1,6 +1,6 @@
 {
-  "parent": "block/rail_raised_sw",
-  "textures": {
-    "rail": "block/detector_rail"
-  }
+    "parent": "block/template_rail_raised_sw",
+    "textures": {
+        "rail": "block/detector_rail"
+    }
 }

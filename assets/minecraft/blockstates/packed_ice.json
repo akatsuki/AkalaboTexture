@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/packed_ice"
+    "variants": {
+        "": { "model": "block/packed_ice" }
     }
-  }
 }

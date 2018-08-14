@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/poppy"
+    "variants": {
+        "": { "model": "block/poppy" }
     }
-  }
 }

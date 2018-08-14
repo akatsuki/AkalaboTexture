@@ -1,22 +1,5 @@
 {
-  "variants": {
-    "facing\u003dup": {
-      "model": "block/normal_torch"
-    },
-    "facing\u003deast": {
-      "model": "block/normal_torch_wall"
-    },
-    "facing\u003dsouth": {
-      "model": "block/normal_torch_wall",
-      "y": 90
-    },
-    "facing\u003dwest": {
-      "model": "block/normal_torch_wall",
-      "y": 180
-    },
-    "facing\u003dnorth": {
-      "model": "block/normal_torch_wall",
-      "y": 270
+    "variants": {
+        "": { "model": "block/torch" }
     }
-  }
 }

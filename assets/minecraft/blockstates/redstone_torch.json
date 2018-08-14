@@ -1,22 +1,6 @@
 {
-  "variants": {
-    "facing\u003dup": {
-      "model": "block/lit_redstone_torch"
-    },
-    "facing\u003deast": {
-      "model": "block/lit_redstone_torch_wall"
-    },
-    "facing\u003dsouth": {
-      "model": "block/lit_redstone_torch_wall",
-      "y": 90
-    },
-    "facing\u003dwest": {
-      "model": "block/lit_redstone_torch_wall",
-      "y": 180
-    },
-    "facing\u003dnorth": {
-      "model": "block/lit_redstone_torch_wall",
-      "y": 270
+    "variants": {
+        "lit=true":  { "model": "block/redstone_torch" },
+        "lit=false":  { "model": "block/redstone_torch_off" }
     }
-  }
 }

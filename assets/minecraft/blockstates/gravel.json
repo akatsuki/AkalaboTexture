@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/gravel"
+    "variants": {
+        "": { "model": "block/gravel" }
     }
-  }
 }

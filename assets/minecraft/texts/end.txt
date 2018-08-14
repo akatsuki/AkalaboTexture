@@ -149,5 +149,3 @@
 §3You are the player.
 
 §2Wake up.
-
-§2§lWake up!!!

@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/cyan_concrete"
+    "variants": {
+        "": { "model": "block/cyan_concrete" }
     }
-  }
 }

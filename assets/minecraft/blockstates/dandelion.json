@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/dandelion"
+    "variants": {
+        "": { "model": "block/dandelion" }
     }
-  }
 }
