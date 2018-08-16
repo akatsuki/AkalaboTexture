@@ -23,3 +23,5 @@ __4.フラットなデザイン__
 
 It is the first time of our open source design project.  
 So if some issues to use githubs please tell us.
+
+//https\://www.dropbox.com/s/uc6sb2750i2ni35/AkalaboTexture.zip?dl\=1
