@@ -1,9 +1,6 @@
 {
   "pack": {
     "pack_format": 4,
-    "description": "AkalaboTexture. serverIP:akalabo.com"
-  },
-  "meta": {
-    "game_version": "1.13"
+    "description": "AkalaboTexture Version1.12b"
   }
 }
